@@ -63,6 +63,19 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.retrofit)
     implementation(libs.converter.moshi)
+    implementation(libs.androidx.media3.common)
+
+
+
+
+    testImplementation(libs.junit)
+    testImplementation(libs.junit.engine)
+    testImplementation(libs.mockk.android)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(libs.androidx.arch.core)
+
+
+
 
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.runtime.livedata)
