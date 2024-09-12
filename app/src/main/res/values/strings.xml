@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ICS342</string>
+    <string name="new_todo">New Todo</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_message">please enter something,ToDo can not be empty! </string>
+    <string name="clear_text">Clear text</string>
+    <string name="add_todo">Add todo item</string>
 </resources>
